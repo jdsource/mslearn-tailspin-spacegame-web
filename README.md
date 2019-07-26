@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/jaroslawdukala0910/MSL/_apis/build/status/jdsource.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/jaroslawdukala0910/MSL/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
